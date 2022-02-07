@@ -15,9 +15,9 @@ function Projects(props) {
     const loaded = () => {
         return projects.map((project) => (
             <div>
-                <h1>{project.name}</h1>
+                <h1>The Greyverse</h1>
                 <img src={project.image} />
-                <a href={project.git}>
+                <a href="https://www.thegreyverse.com/">
                     <button>Github</button>
                 </a>
                 <a href={project.live}>

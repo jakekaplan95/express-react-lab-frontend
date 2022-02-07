@@ -15,9 +15,11 @@ function About(props) {
 
     const loaded = () => (
         <div>
-          <h2>{about.name}</h2>
-          <h3>{about.email}</h3>
-          <p>{about.bio}</p>
+          <h2>Jake Kaplan</h2>
+          <h3>kaplanjt@gmail.com</h3>
+          <p>I have been working extremely hard to build my talents within the tech industry. My specific interests lie within the crypto field, assisting in the creation and design of utility based nft projects.
+
+          To be a part of the space such as the metaverse some of us live in is so humbling, and I intend to make it my mission to help explore the unexplored on the blockchain and in web3!</p>
         </div>
       );
 
