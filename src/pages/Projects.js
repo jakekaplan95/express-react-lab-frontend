@@ -20,7 +20,7 @@ function Projects(props) {
                 <a href="https://www.thegreyverse.com/">
                     <button>Github</button>
                 </a>
-                <a href={project.live}>
+                <a href="https://www.thegreyverse.com/">
                     <buttton>Live Site</buttton>
                 </a>
             </div>
